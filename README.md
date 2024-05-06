@@ -28,7 +28,8 @@
 소셜 공유 및 친구 추천 시스템
 관심상품 알림 및 세일 정보 제공
 
-
+```  mermaid
+erDiagram
     User ||--o{ Order : places
     User ||--o{ Review : writes
     User ||--o{ Subscription : has
