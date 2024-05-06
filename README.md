@@ -89,7 +89,7 @@ erDiagram
     User {
         int UserID
         string Name 
-        string Email
+
         string Password
     }
     
